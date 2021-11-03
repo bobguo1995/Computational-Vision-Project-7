@@ -4,7 +4,9 @@
 - [Project Phases](#paragraph2)
 
 
-# Key Point Detection and Graph Clustering:Multi-Human Pose Estimation <a name="introduction"></a>
+# Introduction <a name="introduction"></a>
+
+**Key Point Detection and Graph Clustering: Multi-Human Pose Estimation**
 
 **Team Members** : Jue Guo, Veer Bains, and Karlis Berkolds
 
