@@ -8,7 +8,7 @@
 
 **Team Members** : Jue Guo, Veer Bains, and Karlis Berkolds
 
-All the members in the team are dedicated to make the learning computer vision a fun process, this project can also be used as anyone who attempts to learn machine learning, deep learning and computer
+All the members in the team are dedicated to make learning computer vision a fun process, this project can also be used for anyone who attempts to learn machine learning, deep learning and computer
 vision with no prior knowledge. However, unlike many other resources, which do not dabble much in math. This project will have a more academic approach.
 
 Multi-person pose estimation aims at localizing 2d key points of an unknown number of people
