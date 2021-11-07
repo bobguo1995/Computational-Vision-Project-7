@@ -25,7 +25,7 @@ graph clustering.
 ## Papers to read ( The list will expand as we try to improve our accuracy) <a name="paragraph1"></a>
 
 * [Simple Baselines for Human Pose Estimation and Tracking](https://openaccess.thecvf.com/content_ECCV_2018/html/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.html)
-* [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation](https://openaccess.thecvf.com/content_ECCV_2018/html/Bin_Xiao_Simple_Baselines_for_ECCV_2018_paper.html)
+* [Differentiable Hierarchical Graph Grouping for Multi-Person Pose Estimation](https://arxiv.org/pdf/2007.11864.pdf)
 * [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212.pdf)
 * [Dynamic Graph CNN for Learning on Point Clouds](https://arxiv.org/abs/1801.07829)
 * [Graph Clustering](https://www.sciencedirect.com/science/article/abs/pii/S1574013707000020) 
