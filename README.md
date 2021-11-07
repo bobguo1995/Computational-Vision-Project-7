@@ -29,6 +29,7 @@ graph clustering.
 * [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212.pdf)
 * [Dynamic Graph CNN for Learning on Point Clouds](https://arxiv.org/abs/1801.07829)
 * [Graph Clustering](https://www.sciencedirect.com/science/article/abs/pii/S1574013707000020) 
+* [Is 2D Heatmap Representation Even Necessary for Human Pose Estimation?](https://arxiv.org/abs/2107.03332)
 
 ## Project Phases  <a name="paragraph2"></a>
 **Phase 1**
