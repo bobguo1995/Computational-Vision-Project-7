@@ -17,5 +17,4 @@ train_folder_img=path.join(root_data_folder,'train2017')
 #validate folders
 val_annot_path=path.join(folder_ann,'person_keypoints_val2017.json')
 val_folder_img=path.join(root_data_folder,'val2017')
-#flag_debug=True
-flag_debug=False
+
